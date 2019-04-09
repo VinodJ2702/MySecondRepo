@@ -11,3 +11,5 @@ def divide(x,y):
     pass
 def square(x,y):
     return x*y
+
+newdef nothing():
